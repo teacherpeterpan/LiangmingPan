@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: Jason Ansel
 #tagline:          A short tagline
 #description:      Describe your website.
@@ -66,3 +67,8 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+
+=======
+theme: jekyll-theme-slate
+>>>>>>> 0bef89e352153147301835a24cbc0b407ec90829
