@@ -1,4 +1,4 @@
-title: Liangming Pan
+title: Liangming Pan's Homepage
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,7 +6,8 @@ url: http://liangmingpan.com
 
 # Owner/author information
 owner:
-  name:           潘亮铭
+  name:           Liangming Pan
+  namezh:         潘亮铭
   avatar:         liangmingpan.jpg
   bio:            Follow excellence, and success will chase you!
   email:          peterpan10211020@163.com

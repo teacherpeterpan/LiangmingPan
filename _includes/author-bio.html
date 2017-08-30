@@ -1,10 +1,14 @@
 <h4 align="center">{{ site.owner.name }}</h4>
+<h4 align="center">{{ site.owner.namezh }}</h4>
 <p align="center"><img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo" width="100" height="100"></a></p>
 <p>{{ site.owner.bio }}</p>
-<p align="right"><small><i>---- 《Three Idiots》</i></small></p>
+<p align="right"><small>---- from <i>Three Idiots</i></small></p>
 
 {% if site.owner.email %}
-<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>
+<p style="text-indent:0;margin-top:1.5em;">
+<a href="mailto:{{ site.owner.email }}" target="_blank">
+<img src="{{ site.url }}/assets/icons/16px/389-mail.png"> Email</a>
+</p>
 <p align="right">{{ site.owner.email }}</p>
 {% endif %}
 
