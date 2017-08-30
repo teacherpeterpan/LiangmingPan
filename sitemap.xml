@@ -4,19 +4,19 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>http://jasonansel.com/</loc>
+      <loc>http://liangmingpan.com/</loc>
     </url>
     <url>
-      <loc>http://jasonansel.com/projects/</loc>
+      <loc>http://liangmingpan.com/projects/</loc>
     </url>
     <url>
-      <loc>http://jasonansel.com/publications/</loc>
+      <loc>http://liangmingpan.com/publications/</loc>
     </url>
     <url>
-      <loc>http://jasonansel.com/experience/</loc>
+      <loc>http://liangmingpan.com/experience/</loc>
     </url>
     <url>
-      <loc>http://jasonansel.com/hobbies/</loc>
+      <loc>http://liangmingpan.com/hobbies/</loc>
     </url>
     {% comment %}
     {% for post in site.posts %}
