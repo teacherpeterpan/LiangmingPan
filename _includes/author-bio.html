@@ -4,13 +4,40 @@
 <p>{{ site.owner.bio }}</p>
 <p align="right"><small>---- from <i>Three Idiots</i></small></p>
 
+{% if site.owner.position %}
+<p style="text-indent:0;margin-top:1.5em;">
+<a href="mailto:{{ site.owner.position }}" target="_blank">
+<img src="{{ site.url }}/assets/icons/16px/119-user-tie.png"> Position</a>
+</p>
+<p align="right">{{ site.owner.position }}</p>
+{% endif %}
+
+{% if site.owner.affiliation %}
+<p style="text-indent:0;margin-top:1.5em;">
+<a href="mailto:{{ site.owner.affiliation }}" target="_blank">
+<img src="{{ site.url }}/assets/icons/16px/004-office.png"> Affiliation</a>
+</p>
+<p align="right">{{ site.owner.affiliation }}</p>
+{% endif %}
+
+{% if site.owner.location %}
+<p style="text-indent:0;margin-top:1.5em;">
+<a href="mailto:{{ site.owner.location }}" target="_blank">
+<img src="{{ site.url }}/assets/icons/16px/072-location.png"> Location</a>
+</p>
+<p align="right">{{ site.owner.location }}</p>
+{% endif %}
+
 {% if site.owner.email %}
 <p style="text-indent:0;margin-top:1.5em;">
 <a href="mailto:{{ site.owner.email }}" target="_blank">
-<img src="{{ site.url }}/assets/icons/16px/389-mail2.png"> Email</a>
+<img src="{{ site.url }}/assets/icons/16px/388-mail.png"> Email</a>
 </p>
 <p align="right">{{ site.owner.email }}</p>
 {% endif %}
+
+
+
 
 {% if site.owner.twitter %}<p style="text-indent:0;"><a href="http://twitter.com/{{ site.owner.twitter }}" target="_blank"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
 {% if site.owner.facebook %}<p style="text-indent:0;"><a href="http://facebook.com/{{ site.owner.facebook }}" target="_blank"><i class="icon-facebook"></i> Facebook</a></p>{% endif %}

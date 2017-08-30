@@ -21,6 +21,10 @@ owner:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
+  # Add more properties
+  position: Master Student
+  affiliation: Knowledge Engineering Lab, Department of Computer Science and Technology, Tsinghua University
+  location: Beijing, China
 
 # Analytics and webmaster tools stuff goes here
 google_verify: "JW0gdx05xcJSQe6saaq67u_U1vgdfuh8OxrjS-fEuyQ"
