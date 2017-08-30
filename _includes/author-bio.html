@@ -8,8 +8,8 @@
 <p style="text-indent:0;margin-top:1.5em;">
 <a href="mailto:{{ site.owner.position }}" target="_blank">
 <img src="{{ site.url }}/assets/icons/16px/119-user-tie.png"> Position</a>
+<a align="right">{{ site.owner.position }}</a>
 </p>
-<p align="right">{{ site.owner.position }}</p>
 {% endif %}
 
 {% if site.owner.affiliation %}
@@ -26,6 +26,14 @@
 <img src="{{ site.url }}/assets/icons/16px/072-location.png"> Location</a>
 </p>
 <p align="right">{{ site.owner.location }}</p>
+{% endif %}
+
+{% if site.owner.phone %}
+<p style="text-indent:0;margin-top:1.5em;">
+<a href="mailto:{{ site.owner.phone }}" target="_blank">
+<img src="{{ site.url }}/assets/icons/16px/067-phone.png"> Phone</a>
+</p>
+<p align="right">{{ site.owner.phone }}</p>
 {% endif %}
 
 {% if site.owner.email %}
