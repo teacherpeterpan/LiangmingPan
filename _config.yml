@@ -23,7 +23,7 @@ owner:
   google_plus:
   # Add more properties
   position: Master Student
-  affiliation: Knowledge Engineering Lab, Department of Computer Science and Technology, Tsinghua University
+  affiliation: Knowledge Engineering Lab <\br> CS Department <\br> Tsinghua University
   location: Beijing, China
   phone: +86 15011178414
 
