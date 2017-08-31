@@ -10,7 +10,7 @@ pubs:
     year: "2017"
     address: "Vancouver, Canada"
     booktitle: "In Proceedings of *the 55th Annual Meeting of the Association for Computational Linguistics* **(ACL 2017)**"
-    pages: "1447--1456"
+    pages: " pages 1447--1456"
     url: "/publications/ACL17_Paper.pdf"
     slides: "/publications/ACL17_Slides.pdf"
 
@@ -277,8 +277,7 @@ pubs:
 
 {% for pub in page.pubs %}
 {% unless pub.hidden %}
-  - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
-    {% else %} {{pub.title}}.
+  - {{pub.title}}.
     {% endif %}{% if pub.type %}({{pub.type}})
     {% endif %}<br>
     {{pub.author}}.<br>
@@ -286,10 +285,9 @@ pubs:
     {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}
     {% if pub.pages %},{{pub.pages}}{% endif %}<br>
     {% if pub.address %}{{pub.address}}.
-    {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
-    {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
-    {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
-    {% endif %}
+    {% endif %} {{pub.month}}, {{pub.year}}. 
+    {% if pub.url %}[Paper]({{pub.url}}).{% endif %}
+    {% if pub.slides %}[Slides]({{pub.slides}}).{% endif %}
 {% endunless %}
 {% endfor %}
 
