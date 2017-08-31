@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /projects/index.html
-title: Projects
+permalink: /research/index.html
+title: Research
 ---
 ```html
     <div class="container">
