@@ -4,16 +4,18 @@ permalink: /research/index.html
 title: Research
 ---
 
-# Selected Research Work
-
-<table border="1" cellpadding="1" cellspacing="1" width="95%" style="margin-top: 0px; border:0px solid #006699;">
+# Research
+## Selected Research Work
+<table border="1" cellpadding="1" cellspacing="1" width="120%" style="margin-top: 0px; border:0px solid #006699;">
     <tr bgcolor="darkblue">
-        <th colspan="2" align="left"><font color="white">* Social Influence</font></th>
+        <th colspan="2" align="left"><font color="white">Social Influence</font></th>
     </tr>
         <tr>
             <td width="320"><img src="active_n.jpg" width="320" />
             </td>
-            <td>Social influence occurs when one's opinions, emotions, or behaviors are affected by others, intentionally or unintentionally. There are three major research topics in social influence: test, measure, and model. <br> Our research mainly focuses on quantifying the influential strength between users in large social networks. We try to answer several challenging questions: (1) How to differentiate the social influences from different angles(topics)? (2) How to quantify the strength of those social influences? (3) How to estimate the model on real large networks? <br> We propose Topical Affinity Propagation (TAP) to model the topic-level social influence on large networks (<a href="publications/KDD09-Tang-et-al-Social-Influence-Analysis.pdf">Tang et al., KDD'09</a>) and investigate a new problem of conformity influence analysis. 
+            <td>
+            <small>Social influence occurs when one's opinions, emotions, or behaviors are affected by others, intentionally or unintentionally. There are three major research topics in social influence: test, measure, and model. <br> Our research mainly focuses on quantifying the influential strength between users in large social networks. We try to answer several challenging questions: (1) How to differentiate the social influences from different angles(topics)? (2) How to quantify the strength of those social influences? (3) How to estimate the model on real large networks? <br> We propose Topical Affinity Propagation (TAP) to model the topic-level social influence on large networks (<a href="publications/KDD09-Tang-et-al-Social-Influence-Analysis.pdf">Tang et al., KDD'09</a>) and investigate a new problem of conformity influence analysis. 
+            </small>
             </td>
     </tr>
 </table>
