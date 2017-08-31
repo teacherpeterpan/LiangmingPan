@@ -11,8 +11,8 @@ pubs:
     address: "Vancouver, Canada"
     booktitle: "In Proceedings of *the 55th Annual Meeting of the Association for Computational Linguistics* **(ACL 2017)**"
     pages: "1447--1456"
-    url: /publications/ACL17_Paper.pdf
-    slides: /publications/ACL17_Slides.pdf
+    url: "/publications/ACL17_Paper.pdf"
+    slides: "/publications/ACL17_Slides.pdf"
 
   - key: "ding:pldi:2015"
     author: "<b>Yufei Ding</b>, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
