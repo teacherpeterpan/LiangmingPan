@@ -3,7 +3,7 @@ layout: page
 permalink: /research/index.html
 title: Research
 ---
-```html
+
     <div class="container">
         <div class="page-header">
             <h2>Selected Research Work</h2>
@@ -17,7 +17,6 @@ title: Research
         <p>We study the interplay between users’ social roles and their influence on information diffusion. In particular, we propose a generative model that integrates social role extraction and diffusion modeling into a unified framework. We then estimate the unknown parameters of the proposed model based on historical diffusion data. The proposed model can be applied in several scenarios. For instance, at the micro-level, the proposed model can be used to predict whether a user will repost a given message; while at the macro-level, it is able to predict both the scale and the duration of a diffusion process. We evaluate the proposed model on a real social media data set. Compared with several alternative methods, our model shows better performance in both micro- and macro-level prediction tasks.</p>
         <p style="margin-left:20px">Paper:<img height="20" src="img/pdf.jpeg" style="margin: 3px;"><a href="works/roleaware/roleaware.pdf" style="margin-left:-3px; margin-right: 3px;">roleaware.pdf</a> | Data: <img height="20" src="img/cpp.jpeg" style="margin-right: 3px;margin-left: -3px"><a href="http://arnetminer.org/rain#b2967" style="margin-left:-3px; margin-right: 3px;">Details</a></p>
     </div>
-```
 
 # Research Projects
 
