@@ -7,30 +7,15 @@ title: Research
 # Selected Research Work
 
 <table border="1" cellpadding="1" cellspacing="1" width="95%" style="margin-top: 0px; border:0px solid #006699;">
-<tr bgcolor="darkblue">
-    <th colspan="2" align="left"><font color="white">* Social Influence</font></th>
-</tr>
-                    <tr>
-                      <td width=320><img src="pics/influence.jpg" width=320 />
-                      </td>
-                      <td>Social influence occurs when one's opinions, emotions, or behaviors are affected by others, intentionally or unintentionally. There are three major research topics in social influence: test, measure, and model. <br>
-                      &nbsp;&nbsp;&nbsp;
-                      Our research mainly focuses on quantifying the influential strength between users in large social networks. We try to answer several challenging questions: (1) How to differentiate the social influences from different angles(topics)? (2) How to quantify the strength of those social influences? (3) How to estimate the model on real large networks? <br>                      
-                      &nbsp;&nbsp;&nbsp;
-                      We propose Topical Affinity Propagation (TAP) to model the topic-level social influence on large networks (<a href="publications/KDD09-Tang-et-al-Social-Influence-Analysis.pdf">Tang et al., KDD'09</a>) and investigate a new problem of conformity influence analysis (<a href="publications/KDD13-Tang-et-al-Conformity-Influence.pdf">Tang et al., KDD'13</a>). 
-                      We also study the conservative and non-conservative influence propagation over heterogeneous networks (<a href="publications/DMKD12-Liu-Tang-et-al-Learning-Influence-from-Heterogeneous-Social-Networks.pdf">Liu et al., DMKD'12</a>) and propose the notion of social influence locality for modeling retweeting behaviors (<a href="publications/IJCAI13-Zhang-et-al-social-influence-locality.pdf">Zhang et al., IJCAI'13</a>).
-                      We further propose a NTT-FGM model to formalize social influence, correlation (homophily), and users' action dependency into a unified approach and distinguish their effects for modeling and predicting users' actions in social networks (<a href="publications/KDD10-Tan-et-al-social-action-tracking.pdf">Tan et al., KDD'10</a>). And apply social influence for analyzing user-level sentiment in social networks (<a href="publications/KDD11-Tan-et-al-social-user-sentiment-analysis.pdf">Tan et al., KDD'11</a>).<br>
-                      <br>
-                      <b>Related data sets and codes: </b>
-                      [<a href="http://arnetminer.org/lab-datasets/soinf/">Topic-Influence</a>]&nbsp;
-                      [<a href="http://arnetminer.org/heterinf/">Influence-over-Heterogeneous-Networks</a>]&nbsp;
-                      [<a href="http://arnetminer.org/stnt/">Social-Action-Tracking</a>]<br>
-                      <b>Tutorials</b> are given at <a href="http://www2014.org">WWW'14</a>, <a href="http://www.wsdm2013.org/">WSDM'13</a> and <a href="http://www.asonam2012.etu.edu.tr/">ASONAM'12</a>, and can be downloaded here
-                      [<a href="publications/WWW14-tutorial-social-influence-analysis.pptx">Slides</a>]
-                      [<a href="publications/WWW14-tutorial-social-influence-analysis.pdf">PDF</a>].<br>
-                      <b>A survey</b> of models and algorithms for social influence analysis can be found <a href="publications/social-influence-analysis.pdf">here</a>.
-                      </td>
-                    </tr>
+    <tr bgcolor="darkblue">
+        <th colspan="2" align="left"><font color="white">* Social Influence</font></th>
+    </tr>
+        <tr>
+            <td width="320"><img src="active_n.jpg" width="320" />
+            </td>
+            <td>Social influence occurs when one's opinions, emotions, or behaviors are affected by others, intentionally or unintentionally. There are three major research topics in social influence: test, measure, and model. <br> Our research mainly focuses on quantifying the influential strength between users in large social networks. We try to answer several challenging questions: (1) How to differentiate the social influences from different angles(topics)? (2) How to quantify the strength of those social influences? (3) How to estimate the model on real large networks? <br> We propose Topical Affinity Propagation (TAP) to model the topic-level social influence on large networks (<a href="publications/KDD09-Tang-et-al-Social-Influence-Analysis.pdf">Tang et al., KDD'09</a>) and investigate a new problem of conformity influence analysis. 
+            </td>
+    </tr>
 </table>
 
 
