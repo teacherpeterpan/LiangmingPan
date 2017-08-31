@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "Daniel Haas, Jason Ansel, Lydia Gu, Adam Marcus"
+  - author: "**Daniel Haas**, Jason Ansel, Lydia Gu, Adam Marcus"
     title: "Argonaut: Macrotask Crowdsourcing for Complex Data Processing"
     keywords: "Locu"
     month: "September"
@@ -14,7 +14,7 @@ pubs:
     bibtex: 2015vldb-argonaut.bib
 
   - key: "ding:pldi:2015"
-    author: "Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
+    author: "<b>Yufei Ding</b>, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
     title: "Autotuning Algorithmic Choice for Input Sensitivity"
     url: "http://groups.csail.mit.edu/commit/papers/2015/yding-pldi15-pbinput.pdf"
     keywords: "OpenTuner"
@@ -271,6 +271,8 @@ pubs:
 ---
 
 # Publications
+<hr>
+## Full Publication List (in chronological order)
 
 {% for pub in page.pubs %}
 {% unless pub.hidden %}
