@@ -283,7 +283,8 @@ pubs:
     {% endif %}<br>
     {{pub.author}}.<br>
     {% if pub.type == 'Technical Report' %}{{pub.number}}
-    {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}<br>
+    {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}
+    {% if pub.pages %},{{pub.pages}}{% endif %}<br>
     {% if pub.address %}{{pub.address}}.
     {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
