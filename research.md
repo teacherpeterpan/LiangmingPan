@@ -23,11 +23,11 @@ title: Research
     <tr>
         <th colspan="2" align="center">
         Paper:
-        <img height="20" src="/assets/icons/pdf.jpeg" style="margin: 3px;">
+        <img width="20" src="/assets/icons/pdf.jpg" style="margin: 3px;"/>
         <a href="works/roleaware/roleaware.pdf" style="margin-left:-3px; margin-right: 3px;">roleaware.pdf
         </a>
          | Data: 
-         <img height="20" src="/assets/icons/cpp.jpeg" style="margin-right: 3px;margin-left: -3px">
+         <img width="20" src="/assets/icons/cpp.jpg" style="margin-right: 3px;margin-left: -3px"/>
          <a href="http://arnetminer.org/rain#b2967" style="margin-left:-3px; margin-right: 3px;">Details
         </a>  
         </th>  
