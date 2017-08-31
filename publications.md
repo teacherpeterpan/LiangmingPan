@@ -3,15 +3,16 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "**Daniel Haas**, Jason Ansel, Lydia Gu, Adam Marcus"
-    title: "Argonaut: Macrotask Crowdsourcing for Complex Data Processing"
-    keywords: "Locu"
-    month: "September"
-    year: "2015"
-    address: "Kohala Coast, Hawaii"
-    booktitle: "International Conference on Very Large Data Bases"
-    url: 2015vldb-argonaut.pdf
-    bibtex: 2015vldb-argonaut.bib
+  - author: "**Liangming Pan**, Chengjiang Li, Juanzi Li, and Jie Tang"
+    title: "Prerequisite Relation Learning for Concepts in MOOCs"
+    keywords: "ACL17"
+    month: "July"
+    year: "2017"
+    address: "Vancouver, Canada"
+    booktitle: "In Proceedings of *the 55th Annual Meeting of the Association for Computational Linguistics* **(ACL 2017)**"
+    pages: "1447--1456"
+    url: /publications/ACL17_Paper.pdf
+    slides: /publications/ACL17_Slides.pdf
 
   - key: "ding:pldi:2015"
     author: "<b>Yufei Ding</b>, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
@@ -282,7 +283,7 @@ pubs:
     {% endif %}<br>
     {{pub.author}}.<br>
     {% if pub.type == 'Technical Report' %}{{pub.number}}
-    {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}.<br>
+    {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}, {% if pub.pages %}{{pub.pages}}<br>
     {% if pub.address %}{{pub.address}}.
     {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
