@@ -3,15 +3,27 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "Daniel Haas, Jason Ansel, Lydia Gu, Adam Marcus"
-    title: "Argonaut: Macrotask Crowdsourcing for Complex Data Processing"
-    keywords: "Locu"
-    month: "September"
-    year: "2015"
-    address: "Kohala Coast, Hawaii"
-    booktitle: "International Conference on Very Large Data Bases"
-    url: 2015vldb-argonaut.pdf
-    bibtex: 2015vldb-argonaut.bib
+  - author: "**Liangming Pan**, Chengjiang Li, Juanzi Li, and Jie Tang"
+    title: "Prerequisite Relation Learning for Concepts in MOOCs"
+    keywords: "ACL17"
+    month: "July"
+    year: "2017"
+    address: "Vancouver, Canada"
+    booktitle: "In Proceedings of *the 55th Annual Meeting of the Association for Computational Linguistics* **(ACL 2017)**"
+    pages: " pages 1447--1456"
+    url: "/publications/ACL17_Paper.pdf"
+    slides: "/publications/ACL17_Slides.pdf"
+ 
+  - author: "**Liangming Pan**, Zhigang Wang, Juanzi Li and Jie Tang},
+    title: "Domain Specific Cross-Lingual Knowledge Linking Based on Similarity Flooding"
+    keywords: "KSEM16"
+    month: "October"
+    year: "2016"
+    address: "Passau, Germany"
+    booktitle: "In Proceedings of *the 9th International Conference on Knowledge Science, Engineering and Management* **(KSEM 2016)**"
+    pages: "pages 426--438"
+    url: "/publications/KSEM16_Paper.pdf"
+    slides: "/publications/KSEM16_Slides.pdf"
 
 
 ---
