@@ -15,9 +15,6 @@ layout: nil
     <url>
       <loc>http://liangmingpan.com/experience/</loc>
     </url>
-    <url>
-      <loc>http://liangmingpan.com/hobbies/</loc>
-    </url>
     {% comment %}
     {% for post in site.posts %}
     <url>

@@ -22,7 +22,7 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
   # Add more properties
-  position: Master Student
+  position: Research Assistant
   affiliation: Knowledge Engineering Lab <br> CS Department <br> Tsinghua University
   location: Beijing, China
   phone: +86 15011178414
@@ -35,7 +35,7 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Home
     url: /
   - title: Research
     url: /research/
@@ -43,8 +43,6 @@ links:
     url: /publications/
   - title: Experience
     url: /experience/
-  - title: Hobbies
-    url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/New_York
