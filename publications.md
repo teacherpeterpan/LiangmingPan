@@ -13,17 +13,6 @@ pubs:
     pages: " pages 1447--1456"
     url: "/publications/ACL17_Paper.pdf"
     slides: "/publications/ACL17_Slides.pdf"
- 
-  - author: "**Liangming Pan**, Zhigang Wang, Juanzi Li and Jie Tang},
-    title: "Domain Specific Cross-Lingual Knowledge Linking Based on Similarity Flooding"
-    keywords: "KSEM16"
-    month: "October"
-    year: "2016"
-    address: "Passau, Germany"
-    booktitle: "In Proceedings of *the 9th International Conference on Knowledge Science, Engineering and Management* **(KSEM 2016)**"
-    pages: "pages 426--438"
-    url: "/publications/KSEM16_Paper.pdf"
-    slides: "/publications/KSEM16_Slides.pdf"
 
 
 ---
