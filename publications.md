@@ -2,6 +2,18 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
+pubs:
+  - author: "Daniel Haas, Jason Ansel, Lydia Gu, Adam Marcus"
+    title: "Argonaut: Macrotask Crowdsourcing for Complex Data Processing"
+    keywords: "Locu"
+    month: "September"
+    year: "2015"
+    address: "Kohala Coast, Hawaii"
+    booktitle: "International Conference on Very Large Data Bases"
+    url: 2015vldb-argonaut.pdf
+    bibtex: 2015vldb-argonaut.bib
+
+
 ---
 
 # Publications
