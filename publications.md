@@ -47,6 +47,7 @@ pubs:
     slides: "/publications/CCKS16_Slides.pdf"
 
   - author: "王巍巍, 王志刚, **潘亮铭**, 刘阳, 张江涛"
+    hidden: True
     title: "双语影视知识图谱的构建研究"
     keywords: "BMKG"
     journal: "北京大学学报(自然科学版)"
@@ -57,7 +58,7 @@ pubs:
     year: "2016"
     url: "/publications/BMKG_Paper.pdf"
     month: "January"
-    
+
 ---
 
 # Publications
