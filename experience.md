@@ -4,60 +4,29 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-# Work Experience
+# Experience
+<hr>
+### Education
 
-### GoDaddy (2013-)
-  - Director of Engineering
-  - Continuing work in Locu ([acquired by GoDaddy][news1], August 2013)
+- **Master:** Tsinghua University, Sep 2014 - July 2017
 
-[news1]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
+- **Bachelor:** Beihang University, Sep 2010 - July 2014 
 
-### Locu (2011-2013)
-  - Designed and implemented machine learning algorithms for extracting semantic information from unstructured web content
-  - Created auto-scaling compute and storage infrastructure
-  - First non-founder employee of start-up
+### Research Experience
 
-### Google (2010)
-  - Added support for self-modifying code to Native Client in Chrome ([PLDI Paper][nacljit])
-  - Ported the V8 JIT compiler to run inside of Native Client
+- **Research Assistant:** Tsinghua University, Knowledge Engineering Group, July 2017 - Dec 2017, Supervisor: Juanzi Li and Jie Tang
 
-[nacljit]: http://groups.csail.mit.edu/commit/papers/2011/ansel-pldi11-nacljit.pdf
+### Awards and Hornors
 
-### Reveal Imaging Technologies (2009)
-  - Optimized algorithms for estimating object mass from multi-view X-ray data
+- Excellent master postgraduate of CS department, Tsinghua, Jun. 2017
 
-### Advanced Micro Devices (2007)
-  - Designed and implemented HLSL compiler for ATI graphics cards
+- Friends of Tsinghua — Renrendai scholarship, Oct. 2016
 
-### Reveal Imaging Technologies (2005-2007)
-  - Designed and implemented distributed system for testing explosive detection algorithms
-  - Parallelized computer tomography reconstruction algorithms using a multi-node/multi-processor system
-{% comment %}
-  - Created and improved on algorithms to process multi-row computer tomography data
-  - Created tool for visualizing algorithm results, creating ground-truths, and generating reports about detection
-{% endcomment %}
+- Meritorious Winner of Mathematical Contest in Modeling, Apr. 2013
 
-### Bluefin Robotics (2004)
-  - Automated the install process of Debian GNU/Linux and navigation/control
-    software on autonomous underwater vehicles
-{% comment %}
-  - GUI development in C++/QT
-  - Created system to extract sonar data from autonomous underwater vehicles in the field
-{% endcomment %}
+- Third prize Scholarship of Academic Performance, Dec. 2011
 
-### Children's Hospital Boston (2001-2003)
-  - Web based software to monitor referring physicians
+- Second prize of Mathematics Competition in Beihang University, Aug. 2011
 
-### Corporate Communications (1998-2001)
-  - Web development in PHP/SQL
-
-
-# Academic Experience
-
-### Massachusetts Institute of Technology (2007-2009: MS; 2009-2014: PhD)
-  - Teaching Assistant: _6.035 Computer Language Engineering_ (Fall 2010)
-  - Research Assistant (2007-2013)
-
-### Northeastern University (2002-2007: BS)
-  - Tutor: _Fundamentals of Computer Science_ course (Fall 2003)
+### Service
 
