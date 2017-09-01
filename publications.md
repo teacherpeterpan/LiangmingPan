@@ -25,6 +25,38 @@ pubs:
     url: "/publications/KSEM16_Paper.pdf"
     slides: "/publications/KSEM16_Slides.pdf"
 
+  - author: "Yan Zhang, Hailong Jin, **Liangming Pan** and Juanzi Li"
+    title: "RiMOM results for OAEI 2016"
+    keywords: "OAEI16"
+    month: "October"
+    year: "2016"
+    address: "Kobe, Japan"
+    booktitle: "In Proceedings of *the 11th International Workshop on Ontology Matching co-located with the 15th International Semantic Web Conference* **(OM@ISWC 2016)**"
+    pages: "pages 210--216"
+    url: "/publications/OAEI16_Paper.pdf"
+
+  - author: "Zhigang Wang, **Liangming Pan**, Juanzi Li, Shuangjie Li, Mingyang Li and Jie Tang"
+    title: "Boosting to Build a Large-Scale Cross-Lingual Ontology"
+    keywords: "CCKS2016"
+    month: "September"
+    year: "2016"
+    address: "Beijing, China"
+    booktitle: "In Proceedings of *1th China Conference on Knowledge Graph and Semantic Computing* **(CCKS 2016)**"
+    pages: "pages 41--53"
+    url: "/publications/CCKS16_Paper.pdf"
+    slides: "/publications/CCKS16_Slides.pdf"
+
+  - author: "王巍巍, 王志刚, **潘亮铭**, 刘阳, 张江涛"
+    title: "双语影视知识图谱的构建研究"
+    keywords: "BMKG"
+    journal: "北京大学学报(自然科学版)"
+    type: "Journal"
+    number: "1"
+    pages: "25--34"
+    volume: "52"
+    year: "2016"
+    month: "January"
+    url: "/publications/BMKG_Paper.pdf"
 
 ---
 
