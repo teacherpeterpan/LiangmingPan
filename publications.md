@@ -84,8 +84,8 @@ pubs:
     {% if pub.pages %},{{pub.pages}}{% endif %}<br>
     {% if pub.address %}{{pub.address}}.
     {% endif %} {{pub.month}}, {{pub.year}}. 
-    {% if pub.url %}[Paper]({{pub.url}}).{% endif %}
-    {% if pub.slides %}[Slides]({{pub.slides}}).{% endif %}
+    {% if pub.url %}[[Paper]]({{pub.url}}).{% endif %}
+    {% if pub.slides %}[[Slides]]({{pub.slides}}).{% endif %}
     {% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
     {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
     {% endif %}
