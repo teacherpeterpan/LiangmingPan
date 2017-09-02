@@ -3,6 +3,14 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
+  - author: "**Liangming Pan**, Xiaochen Wang, Juanzi Li, and Jie Tang"
+    title: "Course Concept Extraction in MOOCs via Embedding-Based Graph Propagation"
+    keywords: "IJCNLP17"
+    month: "December"
+    year: "2017"
+    booktitle: "In Proceedings of *the 8th International Joint Conference on Natural Language Processing * **(IJCNLP 2017)** **(Accepted)**"
+    address: "Taipei, Taiwan"
+
   - author: "**Liangming Pan**, Chengjiang Li, Juanzi Li, and Jie Tang"
     title: "Prerequisite Relation Learning for Concepts in MOOCs"
     keywords: "ACL17"
