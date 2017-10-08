@@ -10,9 +10,9 @@ My name is Liangming Pan. I am a research assistant in the Knowledge Engineering
 
 My research interests include knowledge base, natural language processing, and data mining. When I was a master student, I devoted most of my time working with Prof. Jie Tang to research on an innovative topic about data mining in Massive Open Online Courses (MOOCs). Now, my research topic is about discovering topic evolution in scientific literature. 
 
-I have applied for the Ph.D programme offered by the [School of Computing][SOC] in [National University of Singapore][NUS]. And I hope to work with Prof. [Tat-Seng Chua][Chua] in the [NUS-Tsinghua Extreme Search Centre (NExT)][NExT] to follow my research interest as a Ph.D. 
+I have been selected for an NGS Scholarship and I will be enrolled into the [NUS Graduate School for Integrative Sciences and Engineering (NGS)][NGS] for my PhD studies in [National University of Singapore][NUS] from January 2018. I hope to work with Prof. [Tat-Seng Chua][Chua] in the [NUS-Tsinghua Extreme Search Centre (NExT)][NExT] to follow my research interest as a Ph.D. 
 
-
+[NGS]: http://www.nus.edu.sg/ngs/
 [Tsinghua]: http://www.tsinghua.edu.cn/publish/newthu/index.html
 [juanzili]: http://keg.cs.tsinghua.edu.cn/persons/ljz/
 [jietang]: http://keg.cs.tsinghua.edu.cn/jietang/

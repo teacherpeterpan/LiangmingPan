@@ -20,6 +20,30 @@ title: Research
 <table border="1" cellpadding="1" cellspacing="1" width="130%" style="margin-top: 0px; border:0px solid #006699;">
     <tr bgcolor="darkblue">
         <th colspan="2" align="left">
+            <font color="white">Course Concept Extraction in MOOCs via Embedding-Based Graph Propagation (IJCNLP'17)</font>
+            <br>
+            <font color="white" size="3">Liangming Pan, Xiaochen Wang, Chengjiang Li, Juanzi Li and Jie Tang</font>
+        </th>
+    </tr>
+    <tr>
+        <td width="320"><img src="/research/IJCNLP17.png" width="320" />
+        </td>
+        <td>
+        <small>Massive Open Online Courses (MOOCs), offering a new way to study online, are revolutionizing education. One challenging issue in MOOCs is how to design effective and fine-grained course concepts such that students with different backgrounds can grasp the essence of the course. In this paper, we conduct a systematic investigation of the problem of course concept extraction for MOOCs. We propose to learn latent representations for candidate concepts via an embedding-based method. Moreover, we develop a graph-based propagation algorithm to rank the candidate concepts based on the learned representations. We evaluate the proposed method using different courses from XuetangX and Coursera. Experimental results show that our method significantly outperforms all the alternative methods. 
+        </small>
+        </td>
+    </tr>
+    <tr>
+        <th colspan="2" align="left">
+        <img width="20" src="/assets/icons/pdf.jpg" style="margin: 3px;"/>
+        <a href="/research/IJCNLP17_Paper.pdf" style="margin-left:-3px; margin-right: 3px;">[PDF]
+        </a> 
+        </th>  
+    </tr>
+</table>
+<table border="1" cellpadding="1" cellspacing="1" width="130%" style="margin-top: 0px; border:0px solid #006699;">
+    <tr bgcolor="darkblue">
+        <th colspan="2" align="left">
             <font color="white">Prerequisite Relation Learning for Concepts in MOOCs (ACL'17)</font>
             <br>
             <font color="white" size="3">Liangming Pan, Chengjiang Li, Juanzi Li and Jie Tang</font>
