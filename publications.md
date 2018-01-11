@@ -8,7 +8,7 @@ pubs:
     keywords: "IJCNLP17"
     month: "December"
     year: "2017"
-    booktitle: "In Proceedings of *the 8th International Joint Conference on Natural Language Processing* **(IJCNLP 2017)** **(Accepted)**"
+    booktitle: "In Proceedings of *the 8th International Joint Conference on Natural Language Processing* **(IJCNLP 2017)**"
     address: "Taipei, Taiwan"
     url: "/publications/IJCNLP17_Paper.pdf"
 
