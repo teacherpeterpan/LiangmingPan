@@ -5,7 +5,7 @@ title: Home
 
 # About Me
 
-<img src="/images/liangmingpan2.jpg" class="floatpic" width="200" height="200">
+<img src="/images/liangmingpan2.jpg" class="floatpic" width="300" height="300">
 I am a first year PhD student at [NUS Graduate School for Integrative Sciences and Engineering (NGS)][NGS], [National University of Singapore][NUS]. 
 I am associated with the [Web Information Retrieval / Natural Language Processing Group (WING)][WING] and jointly advised by Prof. [Min-Yen Kan][Min] and Prof. [Tat-Seng Chua][Chua]. 
 <!--I am also interning at 6ESTATES, an AI company in Sigapore.-->
