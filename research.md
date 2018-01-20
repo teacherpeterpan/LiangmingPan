@@ -38,6 +38,9 @@ title: Research
         <img width="20" src="/assets/icons/pdf.jpg" style="margin: 3px;"/>
         <a href="/research/IJCNLP17_Paper.pdf" style="margin-left:-3px; margin-right: 3px;">[PDF]
         </a> 
+        <img width="20" src="/assets/icons/ppt.png" style="margin-right: 3px;margin-left: -3px"/>
+        <a href="/research/IJCNLP17_Slides.pdf" style="margin-left:-3px; margin-right: 3px;">[Slides]
+        </a> 
         </th>  
     </tr>
 </table>

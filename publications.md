@@ -11,6 +11,7 @@ pubs:
     booktitle: "In Proceedings of *the 8th International Joint Conference on Natural Language Processing* **(IJCNLP 2017)**"
     address: "Taipei, Taiwan"
     url: "/publications/IJCNLP17_Paper.pdf"
+    slides: "/publications/IJCNLP17_Slides.pdf"
 
   - author: "**Liangming Pan**, Chengjiang Li, Juanzi Li, and Jie Tang"
     title: "Prerequisite Relation Learning for Concepts in MOOCs"
