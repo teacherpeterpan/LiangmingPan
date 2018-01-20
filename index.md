@@ -5,7 +5,8 @@ title: Home
 
 # About Me
 
-<img src="/images/liangmingpan2.jpg" class="floatpic" width="300" height="300">
+<!--<img src="/images/liangmingpan2.jpg" class="floatpic" width="300" height="300">-->
+<img src="/images/liangmingpan2.jpg" width="300" height="300">
 I am a first year PhD student at [NUS Graduate School for Integrative Sciences and Engineering (NGS)][NGS], [National University of Singapore][NUS]. 
 I am associated with the [Web Information Retrieval / Natural Language Processing Group (WING)][WING] and jointly advised by Prof. [Min-Yen Kan][Min] and Prof. [Tat-Seng Chua][Chua]. 
 <!--I am also interning at 6ESTATES, an AI company in Sigapore.-->
@@ -13,6 +14,7 @@ My research interests include knowledge base, natural language processing, and d
 I am currently working on discovering research dynamics in scientific literature. 
 
 Prior to joining NUS, I received my Master degree from [Tsinghua University][Tsinghua] under the guidance of Prof. [Juanzi Li][juanzili] and Prof. [Jie Tang][jietang] (2014 - 2017). 
+My master's thesis is about data mining in Massive Open Online Courses (MOOCs). 
 Before that, I obtained my bachelor degree in [Beihang University][BUAA] (2010 - 2014). 
 
 <!--
