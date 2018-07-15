@@ -3,6 +3,15 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
+  - author: "Jifan Yu, **Liangming Pan**, Juanzi Li, and Xiaoping Du"
+    title: "Predicting Concept-based Research Trends with Rhetorical Framing"
+    keywords: "CCKS18"
+    month: "August"
+    year: "2018"
+    booktitle: "In Proceedings of *3th China Conference on Knowledge Graph and Semantic Computing* **(CCKS 2018)**"
+    address: "Tianjin, China"
+    url: "/publications/CCKS18_Paper.pdf"
+
   - author: "**Liangming Pan**, Xiaochen Wang, Chengjiang Li, Juanzi Li, and Jie Tang"
     title: "Course Concept Extraction in MOOCs via Embedding-Based Graph Propagation"
     keywords: "IJCNLP17"
@@ -10,6 +19,7 @@ pubs:
     year: "2017"
     booktitle: "In Proceedings of *the 8th International Joint Conference on Natural Language Processing* **(IJCNLP 2017)**"
     address: "Taipei, Taiwan"
+    pages: " pages 875--884"
     url: "/publications/IJCNLP17_Paper.pdf"
     slides: "/publications/IJCNLP17_Slides.pdf"
 
@@ -85,7 +95,7 @@ pubs:
     {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}
     {% if pub.pages %},{{pub.pages}}{% endif %}<br>
     {% if pub.address %}{{pub.address}}.
-    {% endif %} {{pub.month}}, {{pub.year}}. 
+    {% endif %} {{pub.month}}, {{pub.year}}.
     {% if pub.url %}[[Paper]]({{pub.url}}).{% endif %}
     {% if pub.slides %}[[Slides]]({{pub.slides}}).{% endif %}
     {% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
